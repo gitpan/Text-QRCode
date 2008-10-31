@@ -1,0 +1,16 @@
+---
+abstract: 'Generate text base QR Code'
+author:
+  - 'Yoshiki Kurihara <kurihara at cpan.org>'
+distribution_type: module
+generated_by: 'Module::Install version 0.750'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+name: Text-QRCode
+no_index:
+  directory:
+    - inc
+    - t
+version: 0.01
